@@ -1,0 +1,21 @@
+model name,reference,training database,merged and saved,lora parameters,trainer parameters,result
+meta-llama/Llama-2-13b-chat-hf,'085',-,False,-,Option 3: applying RAG - recursive aproach - TFIDF,0.838
+meta-llama/Llama-2-13b-chat-hf,'084',6K example samples,False,"r: 256, alpha: 512","lr: 2e-5, epochs: 50, Option 3: applying RAG - recursive approach - sentence transformer",0.765
+meta-llama/Llama-2-13b-chat-hf,'083',6K example samples,False,"r: 256, alpha: 512","lr: 2e-5, epochs: 50, Option 3: applying RAG - recursive approach - sentence transformer",0.7508
+meta-llama/Llama-2-13b-chat-hf,'09',-,False,-,Option 3: applying RAG - recursive approach - sentence transformer,0.6942
+meta-llama/Llama-2-13b-chat-hf,'08',6K example samples,False,"r: 256, alpha: 512","lr: 2e-4, epochs: 100, per_device_train_batch_size=4, gradient_accumulation_steps=8, learning_rate=2e-5, logging_steps=1, warmup_radio=0.03, weight_decay=0.",0.656
+lmsys/vicuna-13b-v1.5-16k,'00',-,False,-,-,0.652
+lmsys/vicuna-13b-v1.5-16k,'01',6K example samples,False,"r: 256, alpha: 512","lr: 2e-5, epochs: 50",0.65
+meta-llama/Llama-2-13b-chat-hf,'081',6K example samples,False,"r: 256, alpha: 512","lr: 2e-5, epochs: 50, Option 1: most likely answers",0.6292
+meta-llama/Llama-2-13b-chat-hf,'04',6K example samples,False,"r: 256, alpha: 512","lr: 2e-4, epochs: 100",0.613
+meta-llama/Llama-2-13b-chat-hf,'07',6K example samples,False,"r: 256, alpha: 1024","lr: 2e-4, epochs: 100",0.608
+meta-llama/Llama-2-13b-chat-hf,'01',6K example samples,False,"r: 16, alpha: 32","lr: 2e-4, epochs: 100",0.606
+meta-llama/Llama-2-13b-chat-hf,'00',6K example samples,False,"r: 16, alpha: 32","lr: 2e-4, epochs: 50",0.6
+meta-llama/Llama-2-13b-chat-hf,'03',6K example samples,False,"r: 64, alpha: 128","lr: 2e-4, epochs: 100",0.598
+meta-llama/Llama-2-13b-chat-hf,'05',2.5K checked science samples,False,"r: 256, alpha: 512","lr: 2e-4, epochs: 100",0.5975
+meta-llama/Llama-2-13b-chat-hf,'02',6K example samples,False,"r: 32, alpha: 64","lr: 2e-4, epochs: 100",0.591
+meta-llama/Llama-2-13b-chat-hf,'06',15K example samples,False,"r: 256, alpha: 512","lr: 2e-4, epochs: 100",0.572
+meta-llama/Llama-2-13b-chat-hf,'082',6K example samples,False,"r: 256, alpha: 512","lr: 2e-5, epochs: 50, Option 2: correct - incorrect answers",0.5525
+meta-llama/Llama-2-13b-hf,'00',-,False,-,Option 3: applying RAG,0.5525
+meta-llama/Llama-2-7b-hf,'01',6K example samples,False,"r: 256, alpha: 512","lr: 2e-4, epochs: 100",0.387
+meta-llama/Llama-2-7b-hf,'00',6K example samples,True,"r: 16, alpha: 64","lr: 2e-4, epochs: 100",0.35

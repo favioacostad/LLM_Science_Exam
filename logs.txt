@@ -1,0 +1,60 @@
+2023-10-02 20:45:14,028 
+Metric result for model 13b_chat with reference 09: 0.6941666666666666
+
+2023-10-02 21:46:34,628 
+Metric result for model 13b_chat with reference 083: 0.7508333333333332
+
+2023-10-02 22:59:40,449 
+Metric result for model 13b_chat with reference 084: 0.765
+
+2023-10-03 15:41:58,150 
+Metric result for model 13b with reference 00: 0.5525
+
+2023-10-03 23:05:18,489 Load pretrained SentenceTransformer: ./kaggle/input/sentencetransformers-allminilml6v2/sentence-transformers_all-MiniLM-L6-v2
+2023-10-03 23:12:40,840 Load pretrained SentenceTransformer: ./kaggle/input/sentencetransformers-allminilml6v2/sentence-transformers_all-MiniLM-L6-v2
+2023-10-04 00:19:55,801 No such comm target registered: jupyter.widget.control
+2023-10-04 00:19:55,805 No such comm: 4547d925-923c-42d4-81e2-0b77e96d5d40
+2023-10-04 14:41:59,666 Load pretrained SentenceTransformer: ./kaggle/input/sentencetransformers-allminilml6v2/sentence-transformers_all-MiniLM-L6-v2
+2023-10-04 14:48:04,313 Load pretrained SentenceTransformer: ./kaggle/input/sentencetransformers-allminilml6v2/sentence-transformers_all-MiniLM-L6-v2
+2023-10-05 13:48:58,047 Already found a `peft_config` attribute in the model. This will lead to having multiple adapters in the model. Make sure to know what you are doing!
+2023-10-05 13:49:04,191 Already found a `peft_config` attribute in the model. This will lead to having multiple adapters in the model. Make sure to know what you are doing!
+2023-10-05 14:57:52,335 No such comm target registered: jupyter.widget.control
+2023-10-05 14:57:52,336 No such comm: ef459a6c-8995-468c-bb64-cf037e768afa
+2023-10-05 16:43:42,061 
+Metric result for model 13b_chat with reference 085: 0.7483333333333334
+
+2023-10-05 16:49:11,682 No such comm target registered: jupyter.widget.control
+2023-10-05 16:49:11,687 No such comm: 5a30c254-d4c6-4ce5-a378-caebc157d860
+2023-10-10 16:14:23,126 
+Metric result for model 13b_chat with reference 087: 0.8483333333333334
+
+2023-10-10 16:14:56,008 
+Metric result for model 13b_chat with reference 086: 0.3055555555555555
+
+2023-10-11 16:08:22,825 Load pretrained SentenceTransformer: ./kaggle/input/sentencetransformers-allminilml6v2/sentence-transformers_all-MiniLM-L6-v2
+2023-10-11 16:11:44,721 Load pretrained SentenceTransformer: ./kaggle/input/sentencetransformers-allminilml6v2/sentence-transformers_all-MiniLM-L6-v2
+2023-10-11 16:12:52,811 Load pretrained SentenceTransformer: ./kaggle/input/sentencetransformers-allminilml6v2/sentence-transformers_all-MiniLM-L6-v2
+2023-10-11 16:15:45,329 Load pretrained SentenceTransformer: ./kaggle/input/sentencetransformers-allminilml6v2/sentence-transformers_all-MiniLM-L6-v2
+2023-10-11 16:24:54,128 Load pretrained SentenceTransformer: ./kaggle/input/sentencetransformers-allminilml6v2/sentence-transformers_all-MiniLM-L6-v2
+2023-10-11 18:34:00,404 Load pretrained SentenceTransformer: ./kaggle/input/sentencetransformers-allminilml6v2/sentence-transformers_all-MiniLM-L6-v2
+2023-10-11 18:38:28,777 Load pretrained SentenceTransformer: ./kaggle/input/sentencetransformers-allminilml6v2/sentence-transformers_all-MiniLM-L6-v2
+2023-10-11 18:39:04,204 Load pretrained SentenceTransformer: ./kaggle/input/sentencetransformers-allminilml6v2/sentence-transformers_all-MiniLM-L6-v2
+2023-10-11 19:52:25,283 Load pretrained SentenceTransformer: ./kaggle/input/sentencetransformers-allminilml6v2/sentence-transformers_all-MiniLM-L6-v2
+2023-10-11 19:57:13,529 Load pretrained SentenceTransformer: ./kaggle/input/sentencetransformers-allminilml6v2/sentence-transformers_all-MiniLM-L6-v2
+2023-10-11 20:03:25,974 Load pretrained SentenceTransformer: ./kaggle/input/sentencetransformers-allminilml6v2/sentence-transformers_all-MiniLM-L6-v2
+2023-10-11 20:59:20,701 Load pretrained SentenceTransformer: ./kaggle/input/sentencetransformers-allminilml6v2/sentence-transformers_all-MiniLM-L6-v2
+2023-10-11 21:13:40,873 Load pretrained SentenceTransformer: ./kaggle/input/sentencetransformers-allminilml6v2/sentence-transformers_all-MiniLM-L6-v2
+2023-10-11 21:14:26,140 Load pretrained SentenceTransformer: ./kaggle/input/sentencetransformers-allminilml6v2/sentence-transformers_all-MiniLM-L6-v2
+2023-10-11 21:30:09,126 Load pretrained SentenceTransformer: ./kaggle/input/sentencetransformers-allminilml6v2/sentence-transformers_all-MiniLM-L6-v2
+2023-10-11 21:45:48,279 Load pretrained SentenceTransformer: ./kaggle/input/sentencetransformers-allminilml6v2/sentence-transformers_all-MiniLM-L6-v2
+2023-10-11 21:47:38,986 Load pretrained SentenceTransformer: ./kaggle/input/sentencetransformers-allminilml6v2/sentence-transformers_all-MiniLM-L6-v2
+2023-10-11 21:55:39,162 Load pretrained SentenceTransformer: ./kaggle/input/sentencetransformers-allminilml6v2/sentence-transformers_all-MiniLM-L6-v2
+2023-10-12 20:20:37,336 
+Metric result for model 13b_chat with reference 08: 0.7458333333333335
+
+2023-10-12 20:56:25,200 
+Metric result for model 13b_chat with reference 08: 0.7283333333333333
+
+2023-10-12 23:57:16,447 
+Metric result for model 13b_chat with reference 08: 0.5
+

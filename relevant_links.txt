@@ -1,0 +1,27 @@
+# Datasets
+https://www.kaggle.com/competitions/kaggle-llm-science-exam
+https://www.kaggle.com/datasets/mbanaei/all-paraphs-parsed-expanded/
+https://www.kaggle.com/datasets/tomokihirose/faiss-gpu-173-python310/
+https://www.kaggle.com/datasets/mgoksu/llm-science-run-context-2/
+https://www.kaggle.com/datasets/mbanaei/stem-wiki-cohere-no-emb/
+https://www.kaggle.com/datasets/jjinho/wikipedia-20230701/
+
+# Models
+https://www.kaggle.com/datasets/nlztrk/llm-se-debertav3-large/
+https://www.kaggle.com/datasets/inversion/sentence-transformers-222/
+https://www.kaggle.com/datasets/mbanaei/longformer-race-model/
+https://www.kaggle.com/datasets/yonaschanie/sentencetransformers-allminilml6v2/
+
+## Llama cpp
+https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGML/tree/main
+
+# Library
+https://www.kaggle.com/datasets/shashankshuklacodedl/bitsandbytes/
+https://www.kaggle.com/datasets/jjinho/blingfire-018/
+https://www.kaggle.com/datasets/hideki592/llm-libraries/
+https://www.kaggle.com/datasets/datafan07/llm-whls/
+https://www.kaggle.com/datasets/mbanaei/datasets-wheel/
+https://www.kaggle.com/datasets/jjinho/wikipedia-2023-07-faiss-index/
+
+# Utils
+https://www.kaggle.com/datasets/mbanaei/backup-806/
